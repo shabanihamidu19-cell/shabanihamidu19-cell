@@ -3,6 +3,7 @@
 # 👋 Habari, mimi ni **KidCoder Tz**
 
 ### Developer • Builder • Tech Creator 🇹🇿
+**22 years old • Tanzania**
 
 **Tanzanian kidCoder building tools for students & the next generation of African builders**
 
@@ -16,11 +17,29 @@
 
 ### 🧠 About Me
 
-- 🇹🇿 Based in **Tanzania**
-- 🚀 Building **SKONGA AI** — Student AI assistant with mobile money (M-Pesa, Tigo, Airtel, Halo)
+- 🇹🇿 Based in **Tanzania** • **22 years old**
+- 🚀 Founder & Builder of **SKONGA AI** — Student AI assistant with soft limits + mobile money (M-Pesa, Tigo, Airtel, Halo)
+- 📱 Official website carries the **SKONGA APK** for Android: [skonga-web.vercel.app](https://skonga-web.vercel.app/)
 - 💡 Focused on practical tools for education, events discovery, and developer productivity
 - 🌱 Currently learning advanced full-stack patterns, AI integrations & system design
 - ⚡ Fun fact: I ship real products while still a kidCoder
+
+---
+
+### 🔥 Featured Tool — **SKONGA AI**
+
+> **SKONGA AI** is a Student AI assistant built for Tanzanian & African students.  
+> Soft usage limits • Mobile money payments (M-Pesa, Tigo, Airtel, Halo) • Android APK available.
+
+**Try it now:**  
+🌐 **Website + APK download** → [https://skonga-web.vercel.app/](https://skonga-web.vercel.app/)
+
+| Repo | Description |
+|------|-------------|
+| [skonga-ai-v1](https://github.com/shabanihamidu19-cell/skonga-ai-v1) | Main Capacitor Android app |
+| [skonga-web](https://github.com/shabanihamidu19-cell/skonga-web) | Official landing page (hosts APK) |
+| [skonga-backend-v2](https://github.com/shabanihamidu19-cell/skonga-backend-v2) | Backend services |
+| [skonga-auth-content-service](https://github.com/shabanihamidu19-cell/skonga-auth-content-service) | Auth, content & entitlements |
 
 ---
 
@@ -34,15 +53,13 @@
 
 ---
 
-### 🔥 Featured Projects
+### 🔥 Other Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[SKONGA AI](https://github.com/shabanihamidu19-cell/skonga-ai-v1)** | Student AI assistant with soft limits + mobile money payments (M-Pesa, Tigo, Airtel, Halo). Capacitor Android app. | HTML, JS, Capacitor |
-| **[SKONGA Web](https://github.com/shabanihamidu19-cell/skonga-web)** | Official landing page for SKONGA AI with SEO optimization | HTML |
 | **[Browser Performance Lab](https://github.com/shabanihamidu19-cell/browser-performance-lab)** | Performance testing & optimization experiments | HTML |
 | **[Recommendation Service](https://github.com/shabanihamidu19-cell/recommendation-service)** | Recommendation microservice | JavaScript |
-| **[DarEvents](https://github.com/shabanihamidu19-cell/dar-events)** | Automated events discovery platform for Dar es Salaam & Tanzania (Tavily + AI) | Python |
+| **[DarEvents](https://github.com/shabanihamidu19-cell/dar-events)** | Automated events discovery for Dar es Salaam & Tanzania (Tavily + AI) | Python |
 | **[Schema Regression Tool](https://github.com/shabanihamidu19-cell/schema-regression-tool)** | Detect breaking changes in JSON/YAML schemas | JavaScript |
 
 ---
@@ -60,17 +77,24 @@
 
 ---
 
-### 📫 Connect with Me
+### 📫 Connect with Me / Socials
 
-- 🌐 Website: [skonga-web.vercel.app](https://skonga-web.vercel.app/)
-- 📧 Email: [shabanihamidu19@gmail.com](mailto:shabanihamidu19@gmail.com)
-- 🐙 GitHub: [shabanihamidu19-cell](https://github.com/shabanihamidu19-cell)
+| Platform | Link |
+|----------|------|
+| 🌐 **Website + APK** | [skonga-web.vercel.app](https://skonga-web.vercel.app/) |
+| 📧 **Email** | [shabanihamidu19@gmail.com](mailto:shabanihamidu19@gmail.com) |
+| 🐙 **GitHub** | [shabanihamidu19-cell](https://github.com/shabanihamidu19-cell) |
+| 📘 **Facebook** | *Coming soon — link will be added* |
+| 📸 **Instagram** | *Coming soon — link will be added* |
+| 🤖 **SKONGA AI** | [skonga-web.vercel.app](https://skonga-web.vercel.app/) |
+
+> **Note:** Facebook & Instagram links zitakuwa zimewekwa baadaye. Nipe links ukiwa tayari nitaupdate mara moja.
 
 ---
 
 <div align="center">
 
 **Building the future, one commit at a time** 🚀  
-*From Tanzania, for the world*
+*From Tanzania, for the world • Age 22*
 
 </div>
