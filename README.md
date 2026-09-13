@@ -95,6 +95,6 @@
 <div align="center">
 
 **Building the future, one commit at a time** 🚀  
-*From Tanzania, for the world • Age 22*
+*From Tanzania, for the world • Age 21*
 
 </div>
