@@ -3,7 +3,7 @@
 # 👋 Hello , I'm **KidCoder Tz**
 
 ### Developer • Builder • Tech Creator 🇹🇿
-**22 years old • Tanzania**
+**21 years old • Tanzania**
 
 **Tanzanian kidCoder building tools for students & the next generation of African builders**
 
