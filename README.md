@@ -1,13 +1,13 @@
 <div align="center">
 
-# 👋 Habari, mimi ni **KidCoder Tz**
+# 👋 Hello , I'm **KidCoder Tz**
 
 ### Developer • Builder • Tech Creator 🇹🇿
 **22 years old • Tanzania**
 
 **Tanzanian kidCoder building tools for students & the next generation of African builders**
 
-[![Website](https://img.shields.io/badge/Website-skonga--web.vercel.app-blue?style=for-the-badge&logo=vercel)](https://skonga-web.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-skonga.app-blue?style=for-the-badge&logo=vercel)](https://skonga-web.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-shabanihamidu19%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:shabanihamidu19@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-shabanihamidu19--cell-181717?style=for-the-badge&logo=github)](https://github.com/shabanihamidu19-cell)
 
@@ -32,7 +32,7 @@
 > Soft usage limits • Mobile money payments (M-Pesa, Tigo, Airtel, Halo) • Android APK available.
 
 **Try it now:**  
-🌐 **Website + APK download** → [https://skonga-web.vercel.app/](https://skonga-web.vercel.app/)
+🌐 **Website + APK download** → [https://skonga-web.vercel.app/)
 
 | Repo | Description |
 |------|-------------|
