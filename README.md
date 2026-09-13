@@ -5,7 +5,7 @@
 <div align="center">
 
 ### Developer • Builder • Tech Creator 🇹🇿
-**22 years old • Tanzania**
+**21 years old • Tanzania**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+SKONGA+AI+for+students;Full-Stack+Developer+%7C+React+%26+Node;From+Tanzania+%F0%9F%87%B9%F0%9F%87%BF+to+the+world)](https://git.io/typing-svg)
 
@@ -21,7 +21,7 @@
 
 ### 🧠 About Me
 
-- 🇹🇿 Based in **Tanzania** • **22 years old**
+- 🇹🇿 Based in **Tanzania** • **21 years old**
 - 🚀 Founder & Builder of **SKONGA AI** — Student AI assistant with soft limits + mobile money (M-Pesa, Tigo, Airtel, Halo)
 - 📱 Official website carries the **SKONGA APK** for Android: [skonga-web.vercel.app](https://skonga-web.vercel.app/)
 - 💡 Focused on practical tools for education, events discovery, and developer productivity
@@ -126,7 +126,7 @@
 <div align="center">
 
 **Building the future, one commit at a time** 🚀  
-*From Tanzania, for the world • Age 22*
+*From Tanzania, for the world • Age 21*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 
