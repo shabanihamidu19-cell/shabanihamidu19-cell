@@ -116,7 +116,8 @@
 | 📧 **Email** | [shabanihamidu19@gmail.com](mailto:shabanihamidu19@gmail.com) |
 | 🐙 **GitHub** | [shabanihamidu19-cell](https://github.com/shabanihamidu19-cell) |
 | 📘 **Facebook** | *Coming soon — link will be added* |
-| 📸 **Instagram** | *Coming soon — link will be added* |
+| 📸 **Instagram** | .[skonga app]
+.{https://www.instagram.com/skonga.ai)|
 | 🤖 **SKONGA AI** | [skonga-web.vercel.app](https://skonga-web.vercel.app/) |
 
 > **Note:** Facebook & Instagram links zitakuwa zimewekwa baadaye. Nipe links ukiwa tayari nitaupdate mara moja.
