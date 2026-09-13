@@ -1,13 +1,17 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=KidCoder%20Tz&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+</div>
 
-# 👋 Hello , I'm **KidCoder Tz**
+<div align="center">
 
 ### Developer • Builder • Tech Creator 🇹🇿
-**21 years old • Tanzania**
+**22 years old • Tanzania**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+SKONGA+AI+for+students;Full-Stack+Developer+%7C+React+%26+Node;From+Tanzania+%F0%9F%87%B9%F0%9F%87%BF+to+the+world)](https://git.io/typing-svg)
 
 **Tanzanian kidCoder building tools for students & the next generation of African builders**
 
-[![Website](https://img.shields.io/badge/Website-skonga.app-blue?style=for-the-badge&logo=vercel)](https://skonga-web.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-skonga--web.vercel.app-blue?style=for-the-badge&logo=vercel)](https://skonga-web.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-shabanihamidu19%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:shabanihamidu19@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-shabanihamidu19--cell-181717?style=for-the-badge&logo=github)](https://github.com/shabanihamidu19-cell)
 
@@ -32,7 +36,7 @@
 > Soft usage limits • Mobile money payments (M-Pesa, Tigo, Airtel, Halo) • Android APK available.
 
 **Try it now:**  
-🌐 **Website + APK download** → [https://skonga-web.vercel.app/)
+🌐 **Website + APK download** → [https://skonga-web.vercel.app/](https://skonga-web.vercel.app/)
 
 | Repo | Description |
 |------|-------------|
@@ -45,11 +49,26 @@
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**  
-`JavaScript` `TypeScript` `Python` `HTML/CSS` `React` `React Native` `Node.js` `Vite` `Streamlit`
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-**Tools & Platforms**  
-`Git` `GitHub` `Vercel` `Capacitor` `Expo` `Firebase` `Mobile Money APIs`
+<p align="center">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
 ---
 
@@ -77,6 +96,16 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shabanihamidu19-cell/shabanihamidu19-cell/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+> *Snake animation itaanza kuonekana baada ya kuweka GitHub Action (nitakuambia jinsi baadaye ikiwa unahitaji).*
+
+---
+
 ### 📫 Connect with Me / Socials
 
 | Platform | Link |
@@ -95,6 +124,8 @@
 <div align="center">
 
 **Building the future, one commit at a time** 🚀  
-*From Tanzania, for the world • Age 21*
+*From Tanzania, for the world • Age 22*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 
 </div>
