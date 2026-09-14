@@ -5,11 +5,11 @@
 <div align="center">
 
 ### Developer • Builder • Tech Creator 🇹🇿
-**21 years old • Tanzania**
+**21 years old • Building from Tanzania**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+SKONGA+AI+for+students;Full-Stack+Developer+%7C+React+%26+Node;From+Tanzania+%F0%9F%87%B9%F0%9F%87%BF+to+the+world)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+practical+technology+%26+AI+tools;From+Tanzania+to+the+world;SKONGA+AI+%E2%80%94+Student+Assistant)](https://git.io/typing-svg)
 
-**Tanzanian kidCoder building tools for students & the next generation of African builders**
+> **Building practical technology, AI-powered tools and digital experiences from Tanzania.**
 
 [![Website](https://img.shields.io/badge/Website-skonga--web.vercel.app-blue?style=for-the-badge&logo=vercel)](https://skonga-web.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-shabanihamidu19%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:shabanihamidu19@gmail.com)
@@ -19,71 +19,101 @@
 
 ---
 
-### 🧠 About Me
+### 👋 About Me
 
-- 🇹🇿 Based in **Tanzania** • **21 years old**
-- 🚀 Founder & Builder of **SKONGA AI** — Student AI assistant with soft limits + mobile money (M-Pesa, Tigo, Airtel, Halo)
-- 📱 Official website carries the **SKONGA APK** for Android: [skonga-web.vercel.app](https://skonga-web.vercel.app/)
-- 💡 Focused on practical tools for education, events discovery, and developer productivity
-- 🌱 Currently learning advanced full-stack patterns, AI integrations & system design
-- ⚡ Fun fact: I ship real products while still a kidCoder
+I'm **KidCoder Tz** — a 21-year-old developer from Tanzania building real products that solve real problems.
+
+I focus on practical tools for education, AI assistants, and digital experiences that work for African users (including mobile money).
 
 ---
 
-### 🔥 Featured Tool — **SKONGA AI**
+### 🚀 Currently Building
 
-> **SKONGA AI** is a Student AI assistant built for Tanzanian & African students.  
-> Soft usage limits • Mobile money payments (M-Pesa, Tigo, Airtel, Halo) • Android APK available.
+#### **SKONGA AI**
+AI-powered student assistant for smarter learning.
 
-**Try it now:**  
-🌐 **Website + APK download** → [https://skonga-web.vercel.app/](https://skonga-web.vercel.app/)
+→ AI Chat  
+→ Scan & Solve  
+→ Notes & Library  
+→ Calculator  
+→ Swahili / English  
+→ Mobile Money (M-Pesa, Tigo, Airtel, Halo)
 
-| Repo | Description |
-|------|-------------|
+🌐 **Try it + Download APK** → [skonga-web.vercel.app](https://skonga-web.vercel.app/)
+
+| Related Repos | Description |
+|---------------|-------------|
 | [skonga-ai-v1](https://github.com/shabanihamidu19-cell/skonga-ai-v1) | Main Capacitor Android app |
-| [skonga-web](https://github.com/shabanihamidu19-cell/skonga-web) | Official landing page (hosts APK) |
+| [skonga-web](https://github.com/shabanihamidu19-cell/skonga-web) | Landing page (hosts APK) |
 | [skonga-backend-v2](https://github.com/shabanihamidu19-cell/skonga-backend-v2) | Backend services |
 | [skonga-auth-content-service](https://github.com/shabanihamidu19-cell/skonga-auth-content-service) | Auth, content & entitlements |
 
 ---
 
-### 🛠️ Tech Stack
+### ⭐ Featured Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
+| Project | Description |
+|---------|-------------|
+| **[SKONGA AI](https://github.com/shabanihamidu19-cell/skonga-ai-v1)** | Student AI assistant with mobile money & Android APK |
+| **[Schema Regression Tool](https://github.com/shabanihamidu19-cell/schema-regression-tool)** | Detect breaking changes in JSON/YAML schemas |
+| **[Browser Performance Lab](https://github.com/shabanihamidu19-cell/browser-performance-lab)** | Performance testing & optimization experiments |
+| **[ReadAnyBook](https://github.com/shabanihamidu19-cell/ReadAnyBook)** | Book reading / library related project |
+| **[Thrive-MD](https://github.com/shabanihamidu19-cell/Thrive-MD)** | Health / medical related project |
+| **[DarEvents](https://github.com/shabanihamidu19-cell/dar-events)** | Automated events discovery for Dar es Salaam |
 
 ---
 
-### 🔥 Other Featured Projects
+### 🧰 Tech Stack
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Browser Performance Lab](https://github.com/shabanihamidu19-cell/browser-performance-lab)** | Performance testing & optimization experiments | HTML |
-| **[Recommendation Service](https://github.com/shabanihamidu19-cell/recommendation-service)** | Recommendation microservice | JavaScript |
-| **[DarEvents](https://github.com/shabanihamidu19-cell/dar-events)** | Automated events discovery for Dar es Salaam & Tanzania (Tavily + AI) | Python |
-| **[Schema Regression Tool](https://github.com/shabanihamidu19-cell/schema-regression-tool)** | Detect breaking changes in JSON/YAML schemas | JavaScript |
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend & Mobile**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend & Tools**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 Currently Learning
+
+- Advanced JavaScript & TypeScript
+- Backend Architecture
+- AI / RAG Systems
+- Mobile App Development (React Native + Capacitor)
+- DevOps & Deployment
+
+---
+
+### 🌱 My Journey
+
+```text
+Started with curiosity.
+Learned by building.
+Now building products.
+
+2024  →  Learning programming
+2025  →  Building projects
+2026  →  Building SKONGA AI
+Next  →  Scale & impact
+```
+
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shabanihamidu19-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
@@ -93,10 +123,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabanihamidu19-cell&theme=tokyonight&hide_border=true" />
 </div>
-
----
-
-### 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -108,19 +134,23 @@
 
 ---
 
-### 📫 Connect with Me / Socials
+### 🤝 Open to
+
+- Collaboration
+- EdTech projects
+- AI projects
+- Open-source contributions
+- Startup opportunities
+
+### 📫 Let's Connect
 
 | Platform | Link |
 |----------|------|
 | 🌐 **Website + APK** | [skonga-web.vercel.app](https://skonga-web.vercel.app/) |
 | 📧 **Email** | [shabanihamidu19@gmail.com](mailto:shabanihamidu19@gmail.com) |
 | 🐙 **GitHub** | [shabanihamidu19-cell](https://github.com/shabanihamidu19-cell) |
-| 📘 **Facebook** | *Coming soon — link will be added* |
-| 📸 **Instagram** | .[skonga app]
-.{https://www.instagram.com/skonga.ai)|
-| 🤖 **SKONGA AI** | [skonga-web.vercel.app](https://skonga-web.vercel.app/) |
-
-> **Note:** Facebook & Instagram links zitakuwa zimewekwa baadaye. Nipe links ukiwa tayari nitaupdate mara moja.
+| 📸 **Instagram** | [skonga.ai](https://www.instagram.com/skonga.ai) |
+| 📘 **Facebook** | *Coming soon* |
 
 ---
 
