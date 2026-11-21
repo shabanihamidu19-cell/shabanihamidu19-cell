@@ -1,19 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=KidCoder%20Tz&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=220&section=header&text=KidCoder%20Tz&fontSize=52&fontColor=38BDF8&fontAlignY=42&desc=Developer%20%7C%20Builder%20%7C%20From%20Tanzania%20%F0%9F%87%B9%F0%9F%87%BF&descAlignY=68&descSize=18" width="100%"/>
 </div>
+
+<br/>
 
 <div align="center">
 
-### Developer • Builder • Tech Creator 🇹🇿
-**21 years old • Building from Tanzania**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+AI+%26+EdTech+from+Tanzania;Practical+tools+for+real+problems;SKONGA+AI+%E2%80%94+Student+Assistant)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+practical+technology+%26+AI+tools;From+Tanzania+to+the+world;SKONGA+AI+%E2%80%94+Student+Assistant)](https://git.io/typing-svg)
+<br/>
 
-> **Building practical technology, AI-powered tools and digital experiences from Tanzania.**
-
-[![Website](https://img.shields.io/badge/Website-skonga--web.vercel.app-blue?style=for-the-badge&logo=vercel)](https://skonga-web.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-shabanihamidu19%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:shabanihamidu19@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-shabanihamidu19--cell-181717?style=for-the-badge&logo=github)](https://github.com/shabanihamidu19-cell)
+[![Website](https://img.shields.io/badge/Live_Website-skonga--web.vercel.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://skonga-web.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-F87171?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shabanihamidu19@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-shabanihamidu19--cell-1E293B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shabanihamidu19-cell)
 
 </div>
 
@@ -21,144 +20,121 @@
 
 ### 👋 About Me
 
-I'm **KidCoder Tz** — a 21-year-old developer from Tanzania building real products that solve real problems.
+**KidCoder Tz** — 21-year-old developer from Tanzania.
 
-I focus on practical tools for education, AI assistants, and digital experiences that work for African users (including mobile money).
+I build practical products that solve real problems, especially in education and AI.  
+My focus is on tools that work well for African users (including mobile money).
+
+> “Build useful things. Ship them. Improve them.”
 
 ---
 
 ### 🚀 Currently Building
 
-#### **SKONGA AI**
-AI-powered student assistant for smarter learning.
+#### SKONGA AI
+AI-powered student assistant made for African learners.
 
-→ AI Chat  
-→ Scan & Solve  
-→ Notes & Library  
-→ Calculator  
-→ Swahili / English  
-→ Mobile Money (M-Pesa, Tigo, Airtel, Halo)
+| Feature              | Status     |
+|----------------------|------------|
+| AI Chat              | ✅ Live    |
+| Scan & Solve         | ✅ Live    |
+| Notes & Library      | ✅ Live    |
+| Calculator           | ✅ Live    |
+| Swahili + English    | ✅ Live    |
+| Mobile Money         | ✅ Live    |
 
-🌐 **Try it + Download APK** → [skonga-web.vercel.app](https://skonga-web.vercel.app/)
+**Try it + Download APK** → [skonga-web.vercel.app](https://skonga-web.vercel.app/)
 
-| Related Repos | Description |
-|---------------|-------------|
-| [skonga-ai-v1](https://github.com/shabanihamidu19-cell/skonga-ai-v1) | Main Capacitor Android app |
-| [skonga-web](https://github.com/shabanihamidu19-cell/skonga-web) | Landing page (hosts APK) |
-| [skonga-backend-v2](https://github.com/shabanihamidu19-cell/skonga-backend-v2) | Backend services |
-| [skonga-auth-content-service](https://github.com/shabanihamidu19-cell/skonga-auth-content-service) | Auth, content & entitlements |
+**Related Repos**
+- [skonga-ai-v1](https://github.com/shabanihamidu19-cell/skonga-ai-v1) → Main Android App (Capacitor)
+- [skonga-web](https://github.com/shabanihamidu19-cell/skonga-web) → Landing page & APK host
+- [skonga-backend-v2](https://github.com/shabanihamidu19-cell/skonga-backend-v2) → Backend
+- [skonga-auth-content-service](https://github.com/shabanihamidu19-cell/skonga-auth-content-service) → Auth & Content
 
 ---
 
 ### ⭐ Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| **[SKONGA AI](https://github.com/shabanihamidu19-cell/skonga-ai-v1)** | Student AI assistant with mobile money & Android APK |
-| **[Schema Regression Tool](https://github.com/shabanihamidu19-cell/schema-regression-tool)** | Detect breaking changes in JSON/YAML schemas |
-| **[Browser Performance Lab](https://github.com/shabanihamidu19-cell/browser-performance-lab)** | Performance testing & optimization experiments |
-| **[ReadAnyBook](https://github.com/shabanihamidu19-cell/ReadAnyBook)** | Book reading / library related project |
-| **[Thrive-MD](https://github.com/shabanihamidu19-cell/Thrive-MD)** | Health / medical related project |
-| **[DarEvents](https://github.com/shabanihamidu19-cell/dar-events)** | Automated events discovery for Dar es Salaam |
+| Project | What it does |
+|---------|--------------|
+| **[SKONGA AI](https://github.com/shabanihamidu19-cell/skonga-ai-v1)** | Student AI assistant with mobile money |
+| **[Schema Regression Tool](https://github.com/shabanihamidu19-cell/schema-regression-tool)** | Detects breaking changes in schemas |
+| **[Browser Performance Lab](https://github.com/shabanihamidu19-cell/browser-performance-lab)** | Performance testing experiments |
+| **[ReadAnyBook](https://github.com/shabanihamidu19-cell/ReadAnyBook)** | Book reading experience |
+| **[Thrive-MD](https://github.com/shabanihamidu19-cell/Thrive-MD)** | Health-related project |
+| **[DarEvents](https://github.com/shabanihamidu19-cell/dar-events)** | Events discovery for Dar es Salaam |
 
 ---
 
 ### 🧰 Tech Stack
 
 **Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+`JavaScript` `TypeScript` `Python` `HTML` `CSS`
 
 **Frontend & Mobile**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+`React` `React Native` `Expo` `Capacitor` `Vite`
 
 **Backend & Tools**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+`Node.js` `Firebase` `Vercel` `Git` `Streamlit`
 
 ---
 
 ### 🧠 Currently Learning
 
-- Advanced JavaScript & TypeScript
-- Backend Architecture
+- Advanced TypeScript & Backend Architecture
 - AI / RAG Systems
-- Mobile App Development (React Native + Capacitor)
+- Mobile Development (React Native + Capacitor)
 - DevOps & Deployment
 
 ---
 
-### 🌱 My Journey
+### 🌱 Journey
 
 ```text
-Started with curiosity.
-Learned by building.
-Now building products.
-
-2024  →  Learning programming
-2025  →  Building projects
+2024  →  Started learning programming
+2025  →  Building & shipping projects
 2026  →  Building SKONGA AI
-Next  →  Scale & impact
+Next  →  Scale & create real impact
 ```
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shabanihamidu19-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabanihamidu19-cell&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shabanihamidu19-cell&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabanihamidu19-cell&layout=compact&theme=radical&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabanihamidu19-cell&theme=tokyonight&hide_border=true" />
-</div>
+<br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shabanihamidu19-cell/shabanihamidu19-cell/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shabanihamidu19-cell/shabanihamidu19-cell/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shabanihamidu19-cell/shabanihamidu19-cell/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabanihamidu19-cell&theme=radical&hide_border=true" />
 </div>
 
 ---
 
 ### 🤝 Open to
 
-- Collaboration
-- EdTech projects
-- AI projects
-- Open-source contributions
+- EdTech & AI collaborations
+- Open source contributions
 - Startup opportunities
+- Building useful products together
 
-### 📫 Let's Connect
+### 📬 Connect with me
 
-| Platform | Link |
-|----------|------|
-| 🌐 **Website + APK** | [skonga-web.vercel.app](https://skonga-web.vercel.app/) |
-| 📧 **Email** | [shabanihamidu19@gmail.com](mailto:shabanihamidu19@gmail.com) |
-| 🐙 **GitHub** | [shabanihamidu19-cell](https://github.com/shabanihamidu19-cell) |
-| 📸 **Instagram** | [skonga.ai](https://www.instagram.com/skonga.ai) |
-| 📘 **Facebook** | *Coming soon* |
+| | |
+|---|---|
+| 🌐 Website | [skonga-web.vercel.app](https://skonga-web.vercel.app/) |
+| 📧 Email | [shabanihamidu19@gmail.com](mailto:shabanihamidu19@gmail.com) |
+| 🐙 GitHub | [shabanihamidu19-cell](https://github.com/shabanihamidu19-cell) |
+| 📸 Instagram | [skonga.ai](https://www.instagram.com/skonga.ai) |
 
 ---
 
 <div align="center">
-
-**Building the future, one commit at a time** 🚀  
-*From Tanzania, for the world • Age 21*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=120&section=footer" width="100%"/>
+  <br/>
+  <strong>Building the future, one commit at a time</strong><br/>
+  <em>From Tanzania → for the world</em>
 </div>
